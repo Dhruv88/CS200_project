@@ -7,6 +7,10 @@ The app is made for **grouping** food orders and transport rides easily. The ide
 2. Google Sheets as a database for the app.
 3. MIT App inventor for developing frontend app to be run Android.
 
+# How to install:
+1. Download Groupify_App_V6.1.apk on your android device.
+2. Install the apk and you see the app icon once it is installed.
+
 # Home page
 ![image](https://user-images.githubusercontent.com/55611035/128755645-dcaad0e1-3ac8-494a-8104-58009fb5dfa6.png)
 
